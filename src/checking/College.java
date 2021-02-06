@@ -16,5 +16,16 @@ public class College {
 		System.out.println("Anna nv");
 	}
 	
+	public void Adress() {
+		
+		System.out.println("Adress");
+	}
 
+	public void Area() {
+		System.out.println("Area");
+
+
+	}
+	
+	
 }
