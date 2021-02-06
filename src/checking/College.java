@@ -2,15 +2,19 @@ package checking;
 
 public class College {
 	
-	private void dep() {
+	public void dep() {
 		System.out.println("MCA");
 
 	}
-	private void college() {
+	public void college() {
 	
 		System.out.println("ESEC");
 	}	
 	
+	public void unv() {
+	
+		System.out.println("Anna nv");
+	}
 	
 
 }
