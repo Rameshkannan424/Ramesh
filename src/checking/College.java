@@ -26,6 +26,13 @@ public class College {
 
 
 	}
+	public static void main(String[] args) {
+		College cl = new College();
+		cl.Adress();
+		cl.Area();
+		
+		
+	}
 	
 	
 }
