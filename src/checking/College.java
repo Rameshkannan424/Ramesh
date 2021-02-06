@@ -21,14 +21,24 @@ public class College {
 		System.out.println("Adress");
 	}
 
+
 	public void Area() {
 		System.out.println("Area");
 		
-		}
+		
+
+
+		
+		
+
+
+	}
+
 	private void phoneNum() {
 		System.out.println("9966885588");
 
 	}
+
 	
 	private void mailid() {
 
@@ -36,6 +46,8 @@ public class College {
 	}
 	
 	
+
+
 	public static void main(String[] args) {
 		College cl = new College();
 		cl.Adress();
