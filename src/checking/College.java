@@ -23,7 +23,13 @@ public class College {
 
 	public void Area() {
 		System.out.println("Area");
+		
+		
 
+
+	}
+	private void phoneNum() {
+		System.out.println("9966885588");
 
 	}
 	public static void main(String[] args) {
