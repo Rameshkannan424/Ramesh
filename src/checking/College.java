@@ -67,6 +67,15 @@ private void sureshId() {
 
 }
 
+private void gobiId() {
+	// TODO Auto-generated method stub
+
+}
+private void erodeId() {
+	// TODO Auto-generated method stub
+
+}
+
 	public static void main(String[] args) {
 		College cl = new College();
 		cl.Adress();
