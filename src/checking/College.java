@@ -46,6 +46,18 @@ public class College {
 	}
 	
 	
+	//greensblue my add code
+	private void greenId() {
+		System.out.println("green");
+
+	}
+	
+	private void techCode() {
+		
+	System.out.println("sucesses");
+	}
+	 
+	
 
 
 	public static void main(String[] args) {
